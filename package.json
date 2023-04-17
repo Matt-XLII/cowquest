@@ -1,0 +1,14 @@
+{
+  "name": "quest2",
+  "version": "1.0.0",
+  "description": "A quest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
